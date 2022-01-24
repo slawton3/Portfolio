@@ -31,20 +31,7 @@ export default class MyDocument extends Document {
     return (
       <Html lang='en'>
         <Head>
-          <title>Sean's Portfolio</title>
-          <meta name="description" content="Sean Lawton's Professional Portfolio" />
-          <meta name="keywords" content="React, Nextjs, JavaScript, Python, PHP" />
-          <meta name="author" content="Sean Lawton" />
-          <meta name="viewport" content="initial-scale=1.0, width=device-width" />
           <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
-          <script async src="https://www.googletagmanager.com/gtag/js?id=G-2ZCBF4KS17"></script>
-          <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag()(dataLayer.push(arguments))
-            gtag('js', new Date());
-
-            gtag('config', 'G-2ZCBF4KS17');
-          </script>
         </Head>
         <body>
           <Main />
