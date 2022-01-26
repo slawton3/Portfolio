@@ -16,7 +16,7 @@ export default function App({ Component, pageProps }) {
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', '2ZCBF4KS17', {
+            gtag('config', 'G-2ZCBF4KS17', {
               page_path: window.location.pathname,
             });
         `}
