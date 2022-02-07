@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: 'Cryptocurrency Conversion',
+    title: 'Cryptalytics',
     description: "Repository for Cryptalytics, an app for real time cryptocurrency data and news.",
     image: '/images/c1.png',
     tags: ['React', 'Redux', 'Antd', 'REST'],
