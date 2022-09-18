@@ -44,5 +44,6 @@ export const TimeLineData = [
   { year: 2019, text: 'Started my Masters program.', },
   { year: 2020, text: 'Promoted to an Application Developer position.' },
   { year: 2021, text: 'Graduated from my Masters program.', },
-  { year: 2022, text: 'To be continued...', },
+  { year: 2022, text: 'Began work as a Software Engineer.', },
+  { year: 2023, text: 'Good things to come ☺.' }
 ];
