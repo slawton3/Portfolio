@@ -12,7 +12,7 @@ const Hero = () => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        The purpose of this portfolio is to consolidate some of my personal accomplishments and projects in one place.
+        A consolidation of some of the personal projects I have contributed to.
       </SectionText>
       <Button onClick={() => window.location = 'https://docs.google.com/document/d/1dsUtFDdAG5jC13ctg6jqmi9Zj-EHvhNWbf2VPzjJ7Tg/edit?usp=sharing'} >Learn More</Button>
     </LeftSection>

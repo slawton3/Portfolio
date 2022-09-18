@@ -8,7 +8,7 @@ const Technologies = () =>  (
     <SectionDivider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I have worked with numerous frontend and backend technologies to develop full stack applications.
+      I have worked with numerous frontend and backend technologies to develop full stack applications. Today's flavor is Typescript & C#/.NET.
     </SectionText>
     <List>
       <ListItem>
@@ -16,8 +16,8 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            React.js, Next.js, jQuery
+            Years of experience with<br />
+            React.js, Next.js, and other JS libraries.
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -26,8 +26,8 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Server-Side</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            Django, Node.js & PHP
+            Cloud computing, Azure services, <br />
+            Node.js (Typescript) & .NET.
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -36,8 +36,8 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Databases</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            MySQL, MSSQL & MongoDB
+            Database experience with <br />
+            MSSQL, MongoDB and PostgreSQL
           </ListParagraph>
         </ListContainer>
       </ListItem>
